@@ -34,7 +34,7 @@
                             <h5 id="lblNombre" runat="server" class="card-title font-weight-bold"></h5>
                             <p id="lblDescripcion" runat="server" class="card-text"></p>
                             <p id="lblPrecio" runat="server" class="card-text font-weight-bold"></p>
-                            <button id="btnAgregarCarrito" runat="server" class="btn btn-primary">Agregar al Carrito</button>
+                            <button id="btnAgregarCarrito" runat="server" class="btn btn-primary">Agregar al Carrito.</button>
                         </div>
                     </div>
                 </div>
