@@ -1,7 +1,5 @@
 # Convenciones de Git
 
-En este repositorio, seguimos algunas convenciones específicas al hacer commits para mantener un historial de cambios limpio y comprensible. A continuación se detallan nuestras convenciones principales:
-
 ## Separación del título y el cuerpo
 
 Un mensaje de commit típicamente se divide en un título y un cuerpo separados por una línea en blanco. El título debe ser breve y descriptivo, mientras que el cuerpo puede proporcionar detalles adicionales si es necesario.
